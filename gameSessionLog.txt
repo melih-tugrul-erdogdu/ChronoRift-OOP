@@ -1,0 +1,468 @@
+CHRONORIFT PROTOKOLÜ BAŞLATILIYOR...
+
+=========================================================================
+YIL 2042... Zaman yolculuğu icat edildi, ancak sonuçları felaket oldu.
+Tarihin farklı noktalarında 'Zaman Yarıkları' (ChronoRifts) açılıyor.
+Eğer bu anomaliler kapatılmazsa, evrenin dokusu tamamen parçalanacak.
+Sen, bu yarıkları onarmakla görevli bir zaman gezginisin.
+Görev: Hedef çağlara git, anomalileri yok et ve zamanı kurtar!
+=========================================================================
+
+
+--- BÖLÜM 1 ---
+Zaman Yarığı Tespit Edildi: Tarih Öncesi Çağ. Bir anomali, bu döneme ait olmayan bir enerji yayıyor. Karşında zaman çizgisini tehdit eden öfkeli bir Neandertal var. Onu durdur ve yarığı kapat!
+
+[SİSTEM UYARISI] YENİ ANOMALİ: Öfkeli Neandertal
+
+Canınız: 100 / 100 | Düşman Canı: 60
+1- Saldır
+2- Envanteri Aç ve Eşya Kullan
+Seçiminiz: a
+[SİSTEM UYARISI]: Hatalı tuşlama yaptınız! Lütfen 1 veya 2'ye basın.
+
+Canınız: 100 / 100 | Düşman Canı: 60
+1- Saldır
+2- Envanteri Aç ve Eşya Kullan
+Seçiminiz: 1
+Zaman Gezgini, Öfkeli Neandertal'e saldırıyor!
+Öfkeli Neandertal taş sopasıyla kükreyerek saldırıyor!
+
+Canınız: 90 / 100 | Düşman Canı: 40
+1- Saldır
+2- Envanteri Aç ve Eşya Kullan
+Seçiminiz: 1
+Zaman Gezgini, Öfkeli Neandertal'e saldırıyor!
+Öfkeli Neandertal taş sopasıyla kükreyerek saldırıyor!
+
+Canınız: 80 / 100 | Düşman Canı: 20
+1- Saldır
+2- Envanteri Aç ve Eşya Kullan
+Seçiminiz: 1
+Zaman Gezgini, Öfkeli Neandertal'e saldırıyor!
+
+--- ANOMALİ TEMİZLENDİ! 
+Kazanılan Altın: +15
+Ganimet Çantaya Eklendi: Tarih Öncesi Meyve
+[SİSTEM]: Zaman gezgini tecrübe kazandı!
+Karakter seviye atladı! Kazanılan HP: +20 | Yeni gücün: 25
+
+[Zaman Tüneli Dinlenme Noktası]
+Mevcut Altınınız: 65
+1- Eşya Satın Al
+2- Envanterdeki Ganimetleri Sat (Altın Kazan)
+3- Sonraki Bölüme Devam Et
+Seçiminiz: 3
+
+--- BÖLÜM 2 ---
+Zaman Yarığı Tespit Edildi: Orta Çağ. Karanlık bir ormanda, zamanın akışını bozan zırhlı bir Kara Şövalye belirdi. Kılıcını çekmeden önce onu etkisiz hale getir!
+
+[SİSTEM UYARISI] YENİ ANOMALİ: Kara Şövalye
+
+Canınız: 100 / 120 | Düşman Canı: 100
+1- Saldır
+2- Envanteri Aç ve Eşya Kullan
+Seçiminiz: 2
+1. Tarih Öncesi Meyve
+Kullanmak istediğiniz eşyanın numarası (İptal için 0): 2
+Geçersiz bir eşya numarası girdiniz.
+
+Canınız: 100 / 120 | Düşman Canı: 100
+1- Saldır
+2- Envanteri Aç ve Eşya Kullan
+Seçiminiz: 1
+Zaman Gezgini, Kara Şövalye'e saldırıyor!
+Kara Şövalye ağır kılıcını savuruyor!
+
+Canınız: 82 / 120 | Düşman Canı: 80
+1- Saldır
+2- Envanteri Aç ve Eşya Kullan
+Seçiminiz: 1
+Zaman Gezgini, Kara Şövalye'e saldırıyor!
+Kara Şövalye ağır kılıcını savuruyor!
+
+Canınız: 64 / 120 | Düşman Canı: 60
+1- Saldır
+2- Envanteri Aç ve Eşya Kullan
+Seçiminiz: 1
+Zaman Gezgini, Kara Şövalye'e saldırıyor!
+Kara Şövalye ağır kılıcını savuruyor!
+
+Canınız: 46 / 120 | Düşman Canı: 40
+1- Saldır
+2- Envanteri Aç ve Eşya Kullan
+Seçiminiz: 1
+Zaman Gezgini, Kara Şövalye'e saldırıyor!
+Kara Şövalye ağır kılıcını savuruyor!
+
+Canınız: 28 / 120 | Düşman Canı: 20
+1- Saldır
+2- Envanteri Aç ve Eşya Kullan
+Seçiminiz: 1
+Zaman Gezgini, Kara Şövalye'e saldırıyor!
+
+--- ANOMALİ TEMİZLENDİ! 
+Kazanılan Altın: +15
+Ganimet Çantaya Eklendi: Şövalye Madalyonu (Satılabilir)
+[SİSTEM]: Zaman gezgini tecrübe kazandı!
+Karakter seviye atladı! Kazanılan HP: +20 | Yeni gücün: 30
+
+[Zaman Tüneli Dinlenme Noktası]
+Mevcut Altınınız: 80
+1- Eşya Satın Al
+2- Envanterdeki Ganimetleri Sat (Altın Kazan)
+3- Sonraki Bölüme Devam Et
+Seçiminiz: 1
+
+-_-_- DÜKKAN: SATIN ALINABİLİR EŞYALAR -_-_-
+1. Büyük İksir (30 Altın)
+2. Rüşvet Çantası (90 Altın)
+Satın almak istediğiniz eşyanın numarası (Geri dönmek için 0): 2
+[HATA]: Satın alma işlemi başarısız: Yetersiz altın! Gereken: 90 | Mevcut: 80
+
+[Zaman Tüneli Dinlenme Noktası]
+Mevcut Altınınız: 80
+1- Eşya Satın Al
+2- Envanterdeki Ganimetleri Sat (Altın Kazan)
+3- Sonraki Bölüme Devam Et
+Seçiminiz: 2
+
+--- ENVANTERİNİZDEKİ SATILABİLİR EŞYALAR ---
+1. Tarih Öncesi Meyve
+2. Şövalye Madalyonu (Satılabilir)
+Satmak istediğiniz eşyanın numarası (Geri dönmek için 0): 2
+[BAŞARILI]: Şövalye Madalyonu (Satılabilir) dükkana satıldı! Kazanılan Altın: +40
+
+[Zaman Tüneli Dinlenme Noktası]
+Mevcut Altınınız: 120
+1- Eşya Satın Al
+2- Envanterdeki Ganimetleri Sat (Altın Kazan)
+3- Sonraki Bölüme Devam Et
+Seçiminiz: 1
+
+-_-_- DÜKKAN: SATIN ALINABİLİR EŞYALAR -_-_-
+1. Büyük İksir (30 Altın)
+2. Rüşvet Çantası (90 Altın)
+Satın almak istediğiniz eşyanın numarası (Geri dönmek için 0): 2
+Rüşvet Çantası başarıyla satın alındı!
+
+[Zaman Tüneli Dinlenme Noktası]
+Mevcut Altınınız: 30
+1- Eşya Satın Al
+2- Envanterdeki Ganimetleri Sat (Altın Kazan)
+3- Sonraki Bölüme Devam Et
+Seçiminiz: 2
+
+--- ENVANTERİNİZDEKİ SATILABİLİR EŞYALAR ---
+1. Tarih Öncesi Meyve
+2. Rüşvet Çantası
+Satmak istediğiniz eşyanın numarası (Geri dönmek için 0): 2
+[BAŞARILI]: Rüşvet Çantası dükkana satıldı! Kazanılan Altın: +90
+
+[Zaman Tüneli Dinlenme Noktası]
+Mevcut Altınınız: 120
+1- Eşya Satın Al
+2- Envanterdeki Ganimetleri Sat (Altın Kazan)
+3- Sonraki Bölüme Devam Et
+Seçiminiz: 1
+
+-_-_- DÜKKAN: SATIN ALINABİLİR EŞYALAR -_-_-
+1. Büyük İksir (30 Altın)
+2. Rüşvet Çantası (90 Altın)
+Satın almak istediğiniz eşyanın numarası (Geri dönmek için 0): 2
+Rüşvet Çantası başarıyla satın alındı!
+
+[Zaman Tüneli Dinlenme Noktası]
+Mevcut Altınınız: 30
+1- Eşya Satın Al
+2- Envanterdeki Ganimetleri Sat (Altın Kazan)
+3- Sonraki Bölüme Devam Et
+Seçiminiz: 1
+
+-_-_- DÜKKAN: SATIN ALINABİLİR EŞYALAR -_-_-
+1. Büyük İksir (30 Altın)
+2. Rüşvet Çantası (90 Altın)
+Satın almak istediğiniz eşyanın numarası (Geri dönmek için 0): 1
+Büyük İksir başarıyla satın alındı!
+
+[Zaman Tüneli Dinlenme Noktası]
+Mevcut Altınınız: 0
+1- Eşya Satın Al
+2- Envanterdeki Ganimetleri Sat (Altın Kazan)
+3- Sonraki Bölüme Devam Et
+Seçiminiz: 3
+
+--- BÖLÜM 3 ---
+Zaman Yarığı Tespit Edildi: Modern Çağ. Birinci Dünya Savaşı siperlerinde büyük bir kırılma yaşanıyor. Kendi zamanından kopmuş bir Modern Asker, tarihi değiştirmek üzere. Onu durdur!
+
+[SİSTEM UYARISI] YENİ ANOMALİ: Modern Asker
+
+Canınız: 48 / 140 | Düşman Canı: 200
+1- Saldır
+2- Envanteri Aç ve Eşya Kullan
+Seçiminiz: 2
+1. Tarih Öncesi Meyve
+2. Rüşvet Çantası
+3. Büyük İksir
+Kullanmak istediğiniz eşyanın numarası (İptal için 0): 2
+Rüşvet kabul edildi! Modern Asker savaşı terk ediyor.
+
+--- ANOMALİ TEMİZLENDİ! 
+Kazanılan Altın: +30
+Ganimet Çantaya Eklendi: Askerin İksiri
+[SİSTEM]: Zaman gezgini tecrübe kazandı!
+Karakter seviye atladı! Kazanılan HP: +20 | Yeni gücün: 35
+
+[Zaman Tüneli Dinlenme Noktası]
+Mevcut Altınınız: 30
+1- Eşya Satın Al
+2- Envanterdeki Ganimetleri Sat (Altın Kazan)
+3- Sonraki Bölüme Devam Et
+Seçiminiz: 1
+
+-_-_- DÜKKAN: SATIN ALINABİLİR EŞYALAR -_-_-
+1. Büyük İksir (30 Altın)
+2. Rüşvet Çantası (90 Altın)
+Satın almak istediğiniz eşyanın numarası (Geri dönmek için 0): 1
+Büyük İksir başarıyla satın alındı!
+
+[Zaman Tüneli Dinlenme Noktası]
+Mevcut Altınınız: 0
+1- Eşya Satın Al
+2- Envanterdeki Ganimetleri Sat (Altın Kazan)
+3- Sonraki Bölüme Devam Et
+Seçiminiz: 3
+
+--- BÖLÜM 4 ---
+Zaman Yarığı Tespit Edildi: Gelecek Çağ. Gelecekteki bir laboratuvardan kaçan bir Savaş Robotu, insanlığın kaderiyle oynuyor. Bu mekanik anomaliyi parçala!
+
+[SİSTEM UYARISI] YENİ ANOMALİ: Savaş Robotu
+
+Canınız: 68 / 160 | Düşman Canı: 120
+1- Saldır
+2- Envanteri Aç ve Eşya Kullan
+Seçiminiz: 1
+Zaman Gezgini, Savaş Robotu'e saldırıyor!
+Savaş Robotu metal yumruğuyla vuruyor!
+
+Canınız: 48 / 160 | Düşman Canı: 95
+1- Saldır
+2- Envanteri Aç ve Eşya Kullan
+Seçiminiz: 1
+Zaman Gezgini, Savaş Robotu'e saldırıyor!
+Savaş Robotu metal yumruğuyla vuruyor!
+
+Canınız: 28 / 160 | Düşman Canı: 70
+1- Saldır
+2- Envanteri Aç ve Eşya Kullan
+Seçiminiz: 2
+1. Tarih Öncesi Meyve
+2. Büyük İksir
+3. Askerin İksiri
+4. Büyük İksir
+Kullanmak istediğiniz eşyanın numarası (İptal için 0): 1
+Zaman Gezgini can yeniledi: +50
+Savaş Robotu metal yumruğuyla vuruyor!
+
+Canınız: 58 / 160 | Düşman Canı: 70
+1- Saldır
+2- Envanteri Aç ve Eşya Kullan
+Seçiminiz: 1
+Zaman Gezgini, Savaş Robotu'e saldırıyor!
+Savaş Robotu metal yumruğuyla vuruyor!
+
+Canınız: 38 / 160 | Düşman Canı: 45
+1- Saldır
+2- Envanteri Aç ve Eşya Kullan
+Seçiminiz: 2
+1. Büyük İksir
+2. Askerin İksiri
+3. Büyük İksir
+Kullanmak istediğiniz eşyanın numarası (İptal için 0): 1
+Zaman Gezgini can yeniledi: +80
+Savaş Robotu metal yumruğuyla vuruyor!
+
+Canınız: 98 / 160 | Düşman Canı: 45
+1- Saldır
+2- Envanteri Aç ve Eşya Kullan
+Seçiminiz: 1
+Zaman Gezgini, Savaş Robotu'e saldırıyor!
+Savaş Robotu metal yumruğuyla vuruyor!
+
+Canınız: 78 / 160 | Düşman Canı: 20
+1- Saldır
+2- Envanteri Aç ve Eşya Kullan
+Seçiminiz: 1
+Zaman Gezgini, Savaş Robotu'e saldırıyor!
+
+--- ANOMALİ TEMİZLENDİ! 
+Kazanılan Altın: +60
+Ganimet Çantaya Eklendi: İçilebilir Motor Yağı
+[SİSTEM]: Zaman gezgini tecrübe kazandı!
+Karakter seviye atladı! Kazanılan HP: +20 | Yeni gücün: 40
+
+[Zaman Tüneli Dinlenme Noktası]
+Mevcut Altınınız: 60
+1- Eşya Satın Al
+2- Envanterdeki Ganimetleri Sat (Altın Kazan)
+3- Sonraki Bölüme Devam Et
+Seçiminiz: 1
+
+-_-_- DÜKKAN: SATIN ALINABİLİR EŞYALAR -_-_-
+1. Büyük İksir (30 Altın)
+2. Rüşvet Çantası (90 Altın)
+Satın almak istediğiniz eşyanın numarası (Geri dönmek için 0): 1
+Büyük İksir başarıyla satın alındı!
+
+[Zaman Tüneli Dinlenme Noktası]
+Mevcut Altınınız: 30
+1- Eşya Satın Al
+2- Envanterdeki Ganimetleri Sat (Altın Kazan)
+3- Sonraki Bölüme Devam Et
+Seçiminiz: 1
+
+-_-_- DÜKKAN: SATIN ALINABİLİR EŞYALAR -_-_-
+1. Büyük İksir (30 Altın)
+2. Rüşvet Çantası (90 Altın)
+Satın almak istediğiniz eşyanın numarası (Geri dönmek için 0): 1
+Büyük İksir başarıyla satın alındı!
+
+[Zaman Tüneli Dinlenme Noktası]
+Mevcut Altınınız: 0
+1- Eşya Satın Al
+2- Envanterdeki Ganimetleri Sat (Altın Kazan)
+3- Sonraki Bölüme Devam Et
+Seçiminiz: 3
+
+--- BÖLÜM 5 ---
+KRİTİK UYARI: Tüm anomalilerin kaynağı tespit edildi! Zamanın ötesinden gelen bir Uzaylı İstilacı boyutları birbirine katıyor. Bu son savaşı kazan ve zaman çizgisini kurtar!
+
+[SİSTEM UYARISI] YENİ ANOMALİ: Uzaylı İstilacı
+
+Canınız: 98 / 180 | Düşman Canı: 201
+1- Saldır
+2- Envanteri Aç ve Eşya Kullan
+Seçiminiz: 1
+Zaman Gezgini, Uzaylı İstilacı'e saldırıyor!
+Uzaylı İstilacı plazma silahıyla ateş ediyor!
+
+Canınız: 58 / 180 | Düşman Canı: 161
+1- Saldır
+2- Envanteri Aç ve Eşya Kullan
+Seçiminiz: 2
+1. Askerin İksiri
+2. Büyük İksir
+3. İçilebilir Motor Yağı
+4. Büyük İksir
+5. Büyük İksir
+Kullanmak istediğiniz eşyanın numarası (İptal için 0): 1
+Zaman Gezgini can yeniledi: +60
+Uzaylı İstilacı plazma silahıyla ateş ediyor!
+
+Canınız: 78 / 180 | Düşman Canı: 161
+1- Saldır
+2- Envanteri Aç ve Eşya Kullan
+Seçiminiz: 1
+Zaman Gezgini, Uzaylı İstilacı'e saldırıyor!
+Uzaylı İstilacı plazma silahıyla ateş ediyor!
+
+Canınız: 38 / 180 | Düşman Canı: 121
+1- Saldır
+2- Envanteri Aç ve Eşya Kullan
+Seçiminiz: 2
+1. Büyük İksir
+2. İçilebilir Motor Yağı
+3. Büyük İksir
+4. Büyük İksir
+Kullanmak istediğiniz eşyanın numarası (İptal için 0): 1
+Zaman Gezgini can yeniledi: +80
+Uzaylı İstilacı plazma silahıyla ateş ediyor!
+
+Canınız: 78 / 180 | Düşman Canı: 121
+1- Saldır
+2- Envanteri Aç ve Eşya Kullan
+Seçiminiz: 1
+Zaman Gezgini, Uzaylı İstilacı'e saldırıyor!
+Uzaylı İstilacı plazma silahıyla ateş ediyor!
+
+Canınız: 38 / 180 | Düşman Canı: 81
+1- Saldır
+2- Envanteri Aç ve Eşya Kullan
+Seçiminiz: 2
+1. İçilebilir Motor Yağı
+2. Büyük İksir
+3. Büyük İksir
+Kullanmak istediğiniz eşyanın numarası (İptal için 0): 1
+Zaman Gezgini can yeniledi: +50
+Uzaylı İstilacı plazma silahıyla ateş ediyor!
+
+Canınız: 48 / 180 | Düşman Canı: 81
+1- Saldır
+2- Envanteri Aç ve Eşya Kullan
+Seçiminiz: 1
+Zaman Gezgini, Uzaylı İstilacı'e saldırıyor!
+Uzaylı İstilacı plazma silahıyla ateş ediyor!
+[KRİTİK DURUM]: Zaman Gezgini ağır yaralı, can değeri çok düşük!
+
+Canınız: 8 / 180 | Düşman Canı: 41
+1- Saldır
+2- Envanteri Aç ve Eşya Kullan
+Seçiminiz: 2
+1. Büyük İksir
+2. Büyük İksir
+Kullanmak istediğiniz eşyanın numarası (İptal için 0): 1
+Zaman Gezgini can yeniledi: +80
+Uzaylı İstilacı plazma silahıyla ateş ediyor!
+
+Canınız: 48 / 180 | Düşman Canı: 41
+1- Saldır
+2- Envanteri Aç ve Eşya Kullan
+Seçiminiz: 2
+1. Büyük İksir
+Kullanmak istediğiniz eşyanın numarası (İptal için 0): 1
+Zaman Gezgini can yeniledi: +80
+Uzaylı İstilacı plazma silahıyla ateş ediyor!
+
+Canınız: 88 / 180 | Düşman Canı: 41
+1- Saldır
+2- Envanteri Aç ve Eşya Kullan
+Seçiminiz: 1
+Zaman Gezgini, Uzaylı İstilacı'e saldırıyor!
+
+=========================================================================
+Uzaylı dizlerinin üzerine çöküyor, elindeki plazma silahı düşüyor.
+Zaman yarıklarını açan o boyut cihazı göğsünde savunmasızca parlıyor...
+Zaman Gezgini son bir darbeyle cihazı paramparça ediyor ve uzaylıyı hiçliğe yolluyor!
+=========================================================================
+
+
+--- ANOMALİ TEMİZLENDİ! 
+Kazanılan Altın: +10
+Ganimet Çantaya Eklendi: Uzaylı Kristali
+[SİSTEM]: Zaman gezgini tecrübe kazandı!
+Karakter seviye atladı! Kazanılan HP: +20 | Yeni gücün: 45
+
+[Zaman Tüneli Dinlenme Noktası]
+Mevcut Altınınız: 10
+1- Eşya Satın Al
+2- Envanterdeki Ganimetleri Sat (Altın Kazan)
+3- Sonraki Bölüme Devam Et
+Seçiminiz: 2
+
+--- ENVANTERİNİZDEKİ SATILABİLİR EŞYALAR ---
+1. Uzaylı Kristali
+Satmak istediğiniz eşyanın numarası (Geri dönmek için 0): 1
+[BAŞARILI]: Uzaylı Kristali dükkana satıldı! Kazanılan Altın: +1500
+
+[Zaman Tüneli Dinlenme Noktası]
+Mevcut Altınınız: 1510
+1- Eşya Satın Al
+2- Envanterdeki Ganimetleri Sat (Altın Kazan)
+3- Sonraki Bölüme Devam Et
+Seçiminiz: 3
+
+=================================================
+BÜYÜK ZAFER: ZAMAN ÇİZGİSİ KURTARILDI!
+Uzaylı İstilacının yok edilmesiyle tüm zaman yarıkları kapandı.
+=================================================
+
+Process finished with exit code 0

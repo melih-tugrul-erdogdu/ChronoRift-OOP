@@ -1,0 +1,5 @@
+1;Zaman Yarığı Tespit Edildi: Tarih Öncesi Çağ. Bir anomali, bu döneme ait olmayan bir enerji yayıyor. Karşında zaman çizgisini tehdit eden öfkeli bir Neandertal var. Onu durdur ve yarığı kapat!
+2;Zaman Yarığı Tespit Edildi: Orta Çağ. Karanlık bir ormanda, zamanın akışını bozan zırhlı bir Kara Şövalye belirdi. Kılıcını çekmeden önce onu etkisiz hale getir!
+3;Zaman Yarığı Tespit Edildi: Modern Çağ. Birinci Dünya Savaşı siperlerinde büyük bir kırılma yaşanıyor. Kendi zamanından kopmuş bir Modern Asker, tarihi değiştirmek üzere. Onu durdur!
+4;Zaman Yarığı Tespit Edildi: Gelecek Çağ. Gelecekteki bir laboratuvardan kaçan bir Savaş Robotu, insanlığın kaderiyle oynuyor. Bu mekanik anomaliyi parçala!
+5;KRİTİK UYARI: Tüm anomalilerin kaynağı tespit edildi! Zamanın ötesinden gelen bir Uzaylı İstilacı boyutları birbirine katıyor. Bu son savaşı kazan ve zaman çizgisini kurtar!
