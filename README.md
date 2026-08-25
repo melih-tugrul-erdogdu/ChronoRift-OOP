@@ -1,4 +1,4 @@
-# ChronoRift ⏳
+# ChronoRift ⏳ 
 
 ChronoRift is a console-based, turn-based RPG where the player acts as a Time Traveler tasked with fixing historical anomalies. Developed as an Object-Oriented Programming (OOP) term project at Galatasaray University, this game diverges from standard RNG-heavy combat by focusing heavily on economy, resource management, and strategic item usage.
 
